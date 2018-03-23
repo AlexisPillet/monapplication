@@ -1,3 +1,2 @@
-dans f3
-ligne1
+ligne1 f6
 ligne2
